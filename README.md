@@ -2,6 +2,8 @@
 
 An editorial, interactive web application presenting a detailed research essay on **The Ethics of Blockchain Technology and Cryptocurrency**. Built with Next.js 16, React 19, TypeScript, and Tailwind CSS.
 
+🌐 **Live Website**: [https://theethicsofblockchain.vercel.app/](https://theethicsofblockchain.vercel.app/)
+
 ---
 
 ## 📖 Overview of the Site
